@@ -1,0 +1,5 @@
+django = 4.2.7
+python-telegram-bot
+python-dotenv
+tzlocal==2.1
+django-celery-results
